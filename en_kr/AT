@@ -102,7 +102,7 @@ AT_CURSE_CHAIN_NAME=사슬의 저주
 AT_CURSE_CHAIN_DESC=모든 주문의 글로벌 재사용 대기시간은 {0}초입니다
 AT_CURSE_EXPOSURE_NAME=노출의 저주
 AT_CURSE_MALEDICTION_NAME=비방의 저주
-AT_CURSE_MALEDICTION_DESC=이제 모든 과열로 인해 치유된 타르트가 과열된 양의 {0}%에 해당하는 체력을 잃게 됩니다.
+AT_CURSE_MALEDICTION_DESC=이제 모든 초과회복으로 인해 치유된 타르트가 초과회복량의 {0}%에 해당하는 체력을 잃게 됩니다.
 AT_CURSE_SERPENT_NAME=독사의 저주
 AT_CURSE_SERPENT_DESC={0}초마다 {2}초 동안 모든 마법의 마나 소모가 {1}% 증가합니다
 AT_CURSE_GRIEF_NAME=비통의 저주
@@ -149,7 +149,7 @@ AT_ABSOLUTION_DESC=[SKILL_TAG_DEFENSIVE] 스크롤당 [ATTRIBUTE_SHIELDING_EFFEC
 AT_AURA_MASTERY_DESC=모든 오라가 더 이상 최대 마나를 감소시키지 않습니다
 
 AT_DARK_MAGIC_DESC=[SKILL_TAG_OFFENSIVE] 스크롤당 [ATTRIBUTE_INCREASE_ALL_PHYSICAL_DAMAGE_FLAT_TEXT] +{0}
-AT_SACRIFICE_DESC=[CONTEXT_BLESSING] 선택을 건너뛸 수 있으며 대신 [CONTEXT_SCROLLS]을 고를 수 있습니다
+AT_SACRIFICE_DESC=[CONTEXT_BLESSING] 선택을 건너뛸 수 있으며 대신 {0} [CONTEXT_SCROLLS]을 고를 수 있습니다
 AT_SHADE_DOWNSIDE=[CONTEXT_SCROLLS]이 더 이상 체력 회복을 제공하지 않습니다
 
 AT_EVERGREEN_DESC=모든 스킬 재사용 대기시간 및 축복 재사용 대기시간 -{0}%
@@ -173,7 +173,7 @@ AT_BLESSING_PURIFICATION_NAME=정화
 AT_BLESSING_PURIFICATION_DESC=파티원이 스킬을 시전할 때마다 이들은 모든 [LINK_MIGHT] 및 [LINK_FAITH] 효과를 자동으로 소모하고 사용된 스택당 최대 체력의 {0}%만큼 스스로 회복합니다
 
 AT_BLESSING_ANGELIC_EMBRACE_NAME=천사의 포옹
-AT_BLESSING_ANGELIC_EMBRACE_DESC=체력이 {0%} 이하인 파티 멤버를 회복시 {3}초 동안 [ATTRIBUTE_ALL_DAMAGE_DEALT] +{1}% 및 [ATTRIBUTE_HEALING_DONE] +{2}%
+AT_BLESSING_ANGELIC_EMBRACE_DESC=체력이 {0}% 이하인 파티 멤버를 회복시 {3}초 동안 [ATTRIBUTE_ALL_DAMAGE_DEALT] +{1}% 및 [ATTRIBUTE_HEALING_DONE] +{2}%
 
 AT_BLESSING_DIVINE_RESOLVE_NAME=신성한 결의
 AT_BLESSING_DIVINE_RESOLVE_DESC=보호막이 최대로 흡수할 때마다 {0}의 마나를 획득합니다

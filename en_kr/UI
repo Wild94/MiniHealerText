@@ -4,7 +4,7 @@ UI_MENU_BUTTON_EXIT=종료
 
 UI_SAVE_SLOTS_TITLE=저장 슬롯
 UI_SAVE_SLOTS_DESC=이어서 할 저장 슬롯을 선택하세요
-UI_SAVE_SLOTS_DELETE=정말로 이 저장내용을 삭제하겠습니까?
+UI_SAVE_SLOTS_DELETE=정말로 저장내용을 삭제하겠습니까?
 UI_TALENT_LOADOUT_SLOTS_EDIT=세팅명 수정
 UI_EQUIPMENTS_LOADOUT_SLOTS_EDIT=세팅명 수정
 UI_EQUIPMENTS_LOADOUT_X=세팅 {0}
@@ -273,8 +273,7 @@ UI_BLACKSMITH_AUG_VIEW_DESC=증강하면 아티팩트에 속성이 추가됩니�
 UI_BLACKSMITH_MUT_VIEW_TITLE=아티팩트 변형
 UI_BLACKSMITH_MUT_VIEW_DESC=변형은 일부 속성을 더 강력하게 만들지만 다른 속성은 감소합니다
 UI_BLACKSMITH_ORRA_VIEW_TITLE=[BOSS_ORRA_SHORT_NAME] 장비 강화
-"UI_BLACKSMITH_ORRA_VIEW_DESC=[BOSS_ORRA_SHORT_NAME]은(는) 당신이 성장하도록 도우며 추가적인 속성과 함께 심지어 마법부여까지도 가능합니다. 
-속성은 [BOSS_ORRA_SHORT_NAME]의 퀘스트를 완수한만큼 성장합니다"
+UI_BLACKSMITH_ORRA_VIEW_DESC=[BOSS_ORRA_SHORT_NAME]은(는) 당신이 성장하도록 도우며 추가적인 속성과 함께 심지어 마법부여까지도 가능합니다. 속성은 [BOSS_ORRA_SHORT_NAME]의 퀘스트를 완수한만큼 성장합니다
 UI_BLACKSMITH_MEVOR_VIEW_TITLE=[BOSS_MEVOR_SHORT_NAME] 장비 강화
 UI_BLACKSMITH_MEVOR_VIEW_DESC=[BOSS_MEVOR_SHORT_NAME]은(는) 당신이 성장하도록 도우며 추가적인 속성과 함께 심지어 마법부여까지도 가능합니다.  [BOSS_MEVOR_SHORT_NAME]의 퀘스트 완수한만큼 성장합니다
 UI_BLACKSMITH_EDWIN_VIEW_TITLE=[BOSS_EDWIN_SHORT_NAME] 장비 강화
@@ -499,5 +498,7 @@ UI_TRANSMOG_DEFAULT=기본 값
 
 UI_SHOW_COMBAT_LOG=전투 기록 보기
 UI_SHOW_EXTRA_DETAIL=추가 전투 정보 표시
+
+UI_BETA_DESC=주의, 안정적이지 않고 아직 완전히 테스트되지 않은 새로운 기능이 포함된 베타버전의 게임을 플레이 중입니다
 
 END
